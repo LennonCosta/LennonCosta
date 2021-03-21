@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LennonCosta
 - 👀 I’m interested in Javascript, dispositivos móveis e IOT
-- 🌱 currently learning Javascript, APP Inventor - Engenhariade Software (Graduate - 2º semestre)
+- 🌱 currently learning Javascript, APP Inventor - 2º Semestre Engenharia de Software   
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
